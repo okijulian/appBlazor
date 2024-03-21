@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O+fr5bImM4rA09YJuDPP76C3kFqie1G0LuTAKacC0Ds=",
+  "Hash": "UJPE33lVo2Nbs7BtJIaDpNUyaV5zRkO+nKsAKMKMfvI=",
   "Source": "appBlazor",
   "BasePath": "_content/appBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "appBlazor\\wwwroot",
       "Source": "appBlazor",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\",
       "BasePath": "_content/appBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\appBlazor.styles.css",
+      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\appBlazor.styles.css",
       "SourceId": "appBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/appBlazor",
       "RelativePath": "appBlazor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CURSOS\\blazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\appBlazor.styles.css"
+      "OriginalItemSpec": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\appBlazor.styles.css"
     },
     {
-      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\appBlazor.bundle.scp.css",
+      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\appBlazor.bundle.scp.css",
       "SourceId": "appBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/appBlazor",
       "RelativePath": "appBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CURSOS\\blazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\appBlazor.bundle.scp.css"
+      "OriginalItemSpec": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\appBlazor.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\app.css",
+      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\app.css",
       "SourceId": "appBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\",
       "BasePath": "_content/appBlazor",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "appBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\",
       "BasePath": "_content/appBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "appBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\",
       "BasePath": "_content/appBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\favicon.png",
+      "Identity": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\favicon.png",
       "SourceId": "appBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\wwwroot\\",
       "BasePath": "_content/appBlazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

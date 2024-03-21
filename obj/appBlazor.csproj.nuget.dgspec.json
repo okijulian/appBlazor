@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\blazor\\appBlazor\\appBlazor.csproj": {}
+    "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\appBlazor.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\blazor\\appBlazor\\appBlazor.csproj": {
+    "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\appBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor.csproj",
+        "projectUniqueName": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\appBlazor.csproj",
         "projectName": "appBlazor",
-        "projectPath": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor.csproj",
+        "projectPath": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\appBlazor.csproj",
         "packagesPath": "C:\\Users\\okiju\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\blazor\\appBlazor\\obj\\",
+        "outputPath": "D:\\CURSOS\\blazor\\appBlazor\\appBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\PROGRAMAS INSTALADOS\\visualStudio\\Shared\\NuGetPackages"

@@ -11,9 +11,27 @@
 
 @code {
     private int currentCount = 0;
+   
 
     private void IncrementCount()
     {
         currentCount++;
     }
+
+    
 }
+<br />
+<br />
+
+
+
+<input @bind="text" />
+<button class="btn btn-primary" @onclick="() => text = string.Empty">Clear</button>
+<br />
+<p>@text</p>
+
+@code {
+    string text = "";
+}
+
+<p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
