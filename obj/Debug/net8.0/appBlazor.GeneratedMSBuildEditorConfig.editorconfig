@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = appBlazor
+build_property.RootNamespace = appBlazor
+build_property.ProjectDir = D:\CURSOS\blazor\appBlazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CURSOS\blazor\appBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcQXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcUGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcUGFnZXNcRXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcUGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcUGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcUm91dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-z6ul0j2zl9
+
+[D:/CURSOS/blazor/appBlazor/appBlazor/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = YXBwQmxhem9yXENvbXBvbmVudHNcTGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-evc9ref2yt
